@@ -1,21 +1,18 @@
-# 👋 Hi there, I'm Abhinav!
-🎓 **B.Tech Student | Computer Science & Engineering (AI & ML Specialization)**
-💻 Passionate about becoming one of the **best Software Engineer**
-💡 I love solving problems using **C++** and aim to build intelligent systems through **AI & ML**
+# 💫 About Me:
+I'm currently a BTech CSE AIML first year stduent <br>I'm looking to contribute in open source and wanna be a software engineer at google<br>I'm currently learning C++, HTML CSS JS, Python<br>I love to merge creativity with technology
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-chaturvedi-a7b08937a/) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhinav-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhinav-swe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-### 🧠 What I'm Learning
-- ⚙️ Mastering **C++ Programming**
-- 🧮 Strengthening **Data Structures & Algorithms**
-- 💡 Understanding **Computer Science Fundamentals**
-- 🤖 Preparing for my future journey into **AI & ML**
----
-### 🚀 My Goals
-- 🌟 Become an excellent **Software Engineer** with strong technical depth
-- 💻 Build real-world projects using **C++**, then expand into **AI/ML Development**
-- 🧠 Keep learning, improving, and contributing to open-source communities
----
-### 🌱 About Me
-- 🚀 1st Year B.Tech CSE (AI & ML) Student
-- 💬 I enjoy learning how things work - from code to AI logic
----
-⭐*"Code. Learn. Build. Repeat."*
+[![](https://visitcount.itsvg.in/api?id=abhinav-swe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
