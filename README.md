@@ -94,6 +94,6 @@ SETUP NOTES (safe to delete):
 
 
 
-## 🐍 My GitHub Contribution Snake
+## 🐍 My GitHub Contribution
 
 ![GitHub Snake](https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/output/github-snake.svg)
