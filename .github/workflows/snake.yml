@@ -25,6 +25,27 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-dark&color_snake=%2300e5ff&color_dots=%23061120,%230b2940,%230078b8,%2300cfff,%238b5cf6
 
+      - name: Add white borders to SVG squares
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          file = Path("dist/github-snake.svg")
+          svg = file.read_text()
+
+          # Add subtle outlines to SVG rectangles only.
+          svg = re.sub(
+              r'<rect\b(?![^>]*\bstroke=)',
+              '<rect stroke="#ffffff" stroke-opacity="0.75" '
+              'stroke-width="0.7"',
+              svg
+          )
+
+          file.write_text(svg)
+          print("SVG border processing completed.")
+          PY
+
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
