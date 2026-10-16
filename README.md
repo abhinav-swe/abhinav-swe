@@ -72,10 +72,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117&color=00f5ff" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00c8&labelColor=0d1117&color=ff00c8" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=7b2ff7&labelColor=0d1117&color=7b2ff7" alt="Portfolio" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=ffffff" alt="X" /></a>
+<a href="https://www.linkedin.com/in/abhinav-chaturvedi-a7b08937a/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117&color=00f5ff" alt="LinkedIn" /></a>
+<a href="mailto:abhinavchaturvedi.swe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00c8&labelColor=0d1117&color=ff00c8" alt="Email" /></a>
+<a href="https://leetcode.com/u/abhinav-chaturvedi/"><img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116&labelColor=0d1117&color=7b2ff7" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/infinitestar"><img src="https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117&color=00f5ff" alt="CodeChef" /></a>
 
 <br/><br/>
 
