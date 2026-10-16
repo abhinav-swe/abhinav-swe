@@ -3,34 +3,31 @@
 ║  SETUP                                                               ║
 ║  1. Replace every "abhinav-swe" with your GitHub username            ║
 ║  2. Add your illustration/photo at assets/profile.png                ║
-║  3. Add the snake workflow (see "Contribution Graph" section)        ║
+║  3. Create .github/workflows/snake.yml (copy it from the comment     ║
+║     in the "GitHub Analytics" section) and run it once              ║
 ║                                                                      ║
 ║  COLOR COMBOS (find & replace hex codes across the file)             ║
 ║  1 · OCEAN BLUE (default)  03010a / 1e7cb3 / 7cc4ee                  ║
-║  2 · ROSE PINK (like ref)  0d0212 / ef93c4 / ffc2e0                  ║
+║  2 · ROYAL VIOLET          0d0221 / 8b5cf6 / c4b5fd                  ║
 ║  3 · EMERALD MINT          04110d / 10b981 / 6ee7b7                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════ BANNER (LIGHT / DARK) ═══════════════════ -->
+<!-- ═══════════════════ ANIMATED BANNER (LIGHT / DARK) ═══════════════════ -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:03010a,50:0b3a5c,100:1e7cb3&height=240&text=Abhinav%20Swe&fontColor=ffffff&fontSize=58&fontAlign=30&fontAlignY=40&desc=Full-stack%20developer&descSize=22&descAlign=30&descAlignY=62&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:7cc4ee,50:3b9ad1,100:1e7cb3&height=240&text=Abhinav%20Swe&fontColor=ffffff&fontSize=58&fontAlign=30&fontAlignY=40&desc=Full-stack%20developer&descSize=22&descAlign=30&descAlignY=62&animation=fadeIn">
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:03010a,50:0b3a5c,100:1e7cb3&height=240&text=Abhinav%20Swe&fontColor=ffffff&fontSize=58&fontAlign=30&fontAlignY=40&desc=Full-stack%20developer&descSize=22&descAlign=30&descAlignY=62&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:03010a,50:0b3a5c,100:1e7cb3&height=260&section=header&text=Abhinav%20Swe&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-stack%20developer&descSize=22&descAlignY=58&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7cc4ee,50:3b9ad1,100:1e7cb3&height=260&section=header&text=Abhinav%20Swe&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-stack%20developer&descSize=22&descAlignY=58&animation=fadeIn">
+  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:03010a,50:0b3a5c,100:1e7cb3&height=260&section=header&text=Abhinav%20Swe&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-stack%20developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%">
 </picture>
 
-<!-- Want a custom banner like a synthwave design? Replace the <picture> above with:
-<img src="https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/main/assets/banner.png" width="100%" alt="Banner">
--->
-
 <!-- ═══════════════════ TITLE ═══════════════════ -->
-<h1 align="center">Hey there, I'm Abhinav</h1>
+<h1 align="center">Hey there, I'm Abhinav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave" /></h1>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://github.com/abhinav-swe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=7CC4EE&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Full+Stack;Software+Engineer;Open+Source+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7CC4EE&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -47,6 +44,8 @@
 </a>
 
 </div>
+
+<br>
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -69,7 +68,7 @@
   </tr>
 </table>
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ═══════════════════ TECH STACK (ANIMATED ICONS) ═══════════════════ -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -79,28 +78,18 @@
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="center">
-
-<!-- Streak box -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-swe&theme=dark&background=00000000&hide_border=true&ring=1e7cb3&fire=1e7cb3&currStreakNum=FFFFFF&currStreakLabel=7cc4ee&sideNums=FFFFFF&sideLabels=7cc4ee&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="85%" />
-
-<br><br>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-swe&bg_color=03010a&color=7cc4ee&line=1e7cb3&point=FFFFFF&area=true&area_color=1e7cb3&hide_border=true&radius=10" alt="Activity Graph" width="95%" />
-
-</div>
-
-<!-- ═══════════════════ CONTRIBUTION GRAPH (SNAKE) ═══════════════════ -->
-<h2 align="center">🐍 Contribution Graph</h2>
-
 <!--
-  ─────────── GITHUB ACTION: create .github/workflows/snake.yml ───────────
+  ══════════════ SNAKE RUNNING THROUGH THE STREAK BOX ══════════════
+  GitHub cannot overlay one image on another, so this workflow downloads your
+  streak card as an SVG, injects an animated snake into it, and saves it as
+  streak-snake.svg. It also generates the contribution graph snake.
 
-  name: Generate Snake
+  Create .github/workflows/snake.yml with:
+
+  name: Generate Snakes
   on:
     schedule:
-      - cron: "0 */12 * * *"
+      - cron: "0 */6 * * *"
     workflow_dispatch:
     push:
       branches:
@@ -112,13 +101,42 @@
       runs-on: ubuntu-latest
       timeout-minutes: 10
       steps:
-        - name: Generate snake animation
+        - name: Contribution snake
           uses: Platane/snk/svg-only@v3
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark&color_snake=#1e7cb3&color_dots=#0b1f2e,#0e4a6e,#1e7cb3,#3b9ad1,#7cc4ee
+
+        - name: Streak card with animated snake
+          run: |
+            mkdir -p dist
+            curl -sL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&background=03010a&border=1e7cb3&stroke=1e7cb3&ring=1e7cb3&fire=1e7cb3&currStreakNum=FFFFFF&currStreakLabel=7CC4EE&sideNums=FFFFFF&sideLabels=7CC4EE&dates=8B949E" -o dist/streak.svg
+            cat > snake.frag <<'EOF'
+            <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12,12 H483 V183 H12 Z" pathLength="100" stroke="#1e7cb3" stroke-width="5" stroke-dasharray="14 86" stroke-opacity="0.9">
+                <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="7s" repeatCount="indefinite"/>
+              </path>
+              <path d="M12,12 H483 V183 H12 Z" pathLength="100" stroke="#7cc4ee" stroke-width="7" stroke-dasharray="2 98">
+                <animate attributeName="stroke-dashoffset" from="-12" to="-112" dur="7s" repeatCount="indefinite"/>
+              </path>
+              <path d="M12,97 C60,40 110,154 160,97 S260,40 310,97 S410,154 483,97" pathLength="100" stroke="#1e7cb3" stroke-width="4" stroke-dasharray="10 90" stroke-opacity="0.55">
+                <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="5s" repeatCount="indefinite"/>
+              </path>
+              <path d="M12,97 C60,40 110,154 160,97 S260,40 310,97 S410,154 483,97" pathLength="100" stroke="#7cc4ee" stroke-width="6" stroke-dasharray="1.5 98.5" stroke-opacity="0.8">
+                <animate attributeName="stroke-dashoffset" from="-10" to="-110" dur="5s" repeatCount="indefinite"/>
+              </path>
+            </g>
+            EOF
+            python3 - <<'PY'
+            svg = open("dist/streak.svg").read()
+            frag = open("snake.frag").read()
+            head, _, tail = svg.rpartition("</svg>")
+            open("dist/streak-snake.svg", "w").write(head + frag + "</svg>" + tail)
+            PY
+            rm dist/streak.svg snake.frag
+
         - name: Push to output branch
           uses: crazy-max/ghaction-github-pages@v3.1.0
           with:
@@ -127,8 +145,27 @@
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  After committing: Actions → "Generate Snake" → Run workflow (once).
+  After committing: Actions → "Generate Snakes" → Run workflow (once).
+  Tip: if the injected snake looks misaligned, tweak the path coordinates in the
+  workflow (the card is 495 x 195).
 -->
+
+<div align="center">
+
+<!-- Streak box with animated snake running through it -->
+<img src="https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/output/streak-snake.svg" alt="GitHub Streak with animated snake" width="85%" />
+
+<br><br>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-swe&bg_color=03010a&color=7cc4ee&line=1e7cb3&point=FFFFFF&area=true&area_color=1e7cb3&hide_border=true&radius=10" alt="Activity Graph" width="95%" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ CONTRIBUTION GRAPH (SNAKE) ═══════════════════ -->
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <div align="center">
 
@@ -152,7 +189,9 @@
   <a href="mailto:abhinav@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=1E7CB3&center=true&vCenter=true&width=420&height=30&lines=Thanks+for+stopping+by+%F0%9F%92%99;Feel+free+to+%E2%AD%90+a+repo+or+say+hi!" alt="Thanks" />
+</p>
 
 <!-- ═══════════════════ PINK WAVING FOOTER ═══════════════════ -->
 <p align="center">
