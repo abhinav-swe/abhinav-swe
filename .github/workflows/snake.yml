@@ -27,6 +27,8 @@ jobs:
 
       - name: Add white borders to SVG squares
         run: |
+          sudo chmod u+w dist/github-snake.svg
+
           python - <<'PY'
           from pathlib import Path
           import re
@@ -34,7 +36,6 @@ jobs:
           file = Path("dist/github-snake.svg")
           svg = file.read_text()
 
-          # Add subtle outlines to SVG rectangles only.
           svg = re.sub(
               r'<rect\b(?![^>]*\bstroke=)',
               '<rect stroke="#ffffff" stroke-opacity="0.75" '
