@@ -25,6 +25,7 @@ jobs:
 
       - name: Add glass and glow effect
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           python3 - <<'PY'
           import re
           p = "dist/github-snake.svg"
