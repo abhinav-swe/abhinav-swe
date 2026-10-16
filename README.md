@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=240&section=header&text=ABHINAV&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E3%80%8C%20SOFTWARE%20ENGINEER%20%E2%80%A2%20BUILDING%20THE%20FUTURE%20%E3%80%8D&descSize=16&descAlignY=60" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/main/assets/hero.svg" width="100%" alt="Abhinav - animated banner"/>
 
 <a href="https://github.com/abhinav-swe">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+INITIALIZING+ABHINAV.EXE...;%3E+BUILDING+SCALABLE+SYSTEMS;%3E+SHIPPING+CODE+AT+LIGHT+SPEED;%3E+STATUS%3A+ONLINE+%E2%9C%94" alt="typing" />
@@ -88,6 +88,7 @@
 <!--
 SETUP NOTES (safe to delete):
 1. The file must live in a PUBLIC repo named exactly `abhinav-swe` (github.com/abhinav-swe/abhinav-swe) as README.md.
+   The banner needs assets/hero.svg in the same repo on the `main` branch.
 2. Enable "Private contributions" in your profile's contribution settings so stats and streak count them.
 3. If a stats card shows an error, the free public github-readme-stats server is rate-limited; refresh later.
 -->
