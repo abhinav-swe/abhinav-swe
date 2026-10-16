@@ -27,14 +27,15 @@ jobs:
 
       - name: Add white borders to SVG squares
         run: |
-          sudo chmod u+w dist/github-snake.svg
-
           python - <<'PY'
           from pathlib import Path
           import re
+          import os
 
-          file = Path("dist/github-snake.svg")
-          svg = file.read_text()
+          source = Path("dist/github-snake.svg")
+          temp = Path("dist/github-snake-bordered.svg")
+
+          svg = source.read_text()
 
           svg = re.sub(
               r'<rect\b(?![^>]*\bstroke=)',
@@ -43,8 +44,10 @@ jobs:
               svg
           )
 
-          file.write_text(svg)
-          print("SVG border processing completed.")
+          temp.write_text(svg)
+          os.replace(temp, source)
+
+          print("SVG updated successfully.")
           PY
 
 
