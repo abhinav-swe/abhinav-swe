@@ -21,14 +21,13 @@
 ## ⚡ `> whoami`
 
 ```bash
-┌──(abhinav㉿github)-[~]
-└─$ cat profile.json
+┌──(abhinav㉿github)-
 {
   "name":      "Abhinav",
   "role":      "Software Engineer",
   "focus":     ["C++ & DSA", "Web Development", "AI/ML"],
-  "learning":  "[what you're learning now]",
-  "building":  "[your current project]",
+  "learning":  "[DSA in C++,Python Libraries]",
+  "building":  "[YTD]",
   "open_to":   "Collaborations • Open Source • Cool Ideas",
   "status":    "🟢 ONLINE"
 }
