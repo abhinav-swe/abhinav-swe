@@ -91,3 +91,9 @@ SETUP NOTES (safe to delete):
 2. Enable "Private contributions" in your profile's contribution settings so stats and streak count them.
 3. If a stats card shows an error, the free public github-readme-stats server is rate-limited; refresh later.
 -->
+
+
+
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/output/github-snake.svg)
