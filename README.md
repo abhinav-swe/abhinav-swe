@@ -26,7 +26,7 @@
 {
   "name":      "Abhinav",
   "role":      "Software Engineer",
-  "focus":     ["Web Development", "System Design", "AI/ML"],
+  "focus":     ["C++ & DSA", "Web Development", "AI/ML"],
   "learning":  "[what you're learning now]",
   "building":  "[your current project]",
   "open_to":   "Collaborations • Open Source • Cool Ideas",
@@ -40,11 +40,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,html,css,tailwind&perline=12&theme=dark" alt="stack 1" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,docker,linux,aws,vscode,postman,figma&perline=12&theme=dark" alt="stack 2" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,git,github&perline=7&theme=dark" alt="tech stack icons" />
 
 </div>
+
+<br/>
+
+- 💻 **C++ & DSA**
+- 🌐 **HTML, CSS & JavaScript**
+- 🐍 **Python for AI/ML**
+- 🛠️ **Git & GitHub**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
 
@@ -58,48 +63,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=abhinav-swe&background=0D1117&ring=FF00C8&fire=00F5FF&currStreakNum=00F5FF&currStreakLabel=FF00C8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=7B2FF7&stroke=7B2FF7&border=7B2FF7" alt="streak" />
-
-</div>
-
-### 🌐 Contribution Matrix
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-swe&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff00c8&area=true&area_color=7b2ff7&title_color=00f5ff&hide_border=true&custom_title=Contribution%20Matrix" alt="activity graph" width="100%" />
-
-</div>
-
-### 🐍 Commit Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
-> 🐍 The snake needs the one-time GitHub Action in the setup notes at the bottom. Until then, delete this section so it doesn't show a broken image.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
-
-## 🚀 `> featured_projects`
-
-<div align="center">
-
-<a href="https://github.com/abhinav-swe/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-1&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="project 1" /></a>
-<a href="https://github.com/abhinav-swe/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-2&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="project 2" /></a>
-<br/>
-<a href="https://github.com/abhinav-swe/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-3&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="project 3" /></a>
-<a href="https://github.com/abhinav-swe/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-4&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="project 4" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
-
-## 🏆 `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav-swe&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
@@ -123,44 +86,8 @@
 </div>
 
 <!--
-==================== SETUP NOTES (safe to delete this block) ====================
-
-1. Repo: the file must live in a PUBLIC repo named exactly `abhinav-swe`
-   (github.com/abhinav-swe/abhinav-swe) as README.md.
-
-2. Private contributions: in your GitHub profile, go to Contributions settings and enable
-   "Private contributions" so stats and streak count them.
-
-3. Contribution snake (optional): create .github/workflows/snake.yml with:
-
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [main]
-   permissions:
-     contents: write
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: |
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3.1.0
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Run it once from the Actions tab, and the snake image will appear.
-
-4. If a stats card ever shows an error, the free public github-readme-stats server
-   is rate-limited; refreshing later usually fixes it.
-==================================================================================
+SETUP NOTES (safe to delete):
+1. The file must live in a PUBLIC repo named exactly `abhinav-swe` (github.com/abhinav-swe/abhinav-swe) as README.md.
+2. Enable "Private contributions" in your profile's contribution settings so stats and streak count them.
+3. If a stats card shows an error, the free public github-readme-stats server is rate-limited; refresh later.
 -->
