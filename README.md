@@ -1,174 +1,119 @@
-<!-- Profile README for abhinav-swe: save as README.md in the repo github.com/abhinav-swe/abhinav-swe -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Abhinav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16" alt="header" width="100%"/>
+<!-- Optional banner: replace the URL with your own banner when you have one. -->
+
+Hey there, I'm Abhinav 👋
+🌀 A little chaos, a lot of curiosity.
+CSE (AI & ML) student · Aspiring Software Engineer · Building in public
+I like turning ideas into code, learning by building, and breaking things just enough to understand how they work.
+<p>
+  <a href="https://github.com/abhinav-swe">
+    <img src="https://komarev.com/ghpvc/?username=abhinav-swe&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+  <a href="https://github.com/abhinav-swe?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhinav-swe?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/abhinav-swe?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhinav-swe&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=2563eb" alt="Public repositories" />
+  </a>
+</p>
 
 <a href="https://github.com/abhinav-swe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+things+that+matter;Writing+clean%2C+scalable+code;Always+learning+something+new" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abhinav-swe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<a href="https://github.com/abhinav-swe?tab=followers"><img src="https://img.shields.io/github/followers/abhinav-swe?label=Followers&style=flat&logo=github&color=0e75b6" alt="followers" /></a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abhinav-swe&query=$.public_repos&label=Public%20Repos&style=flat&logo=github&color=0e75b6" alt="public repos" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **[your current project]**
-- 🌱 Currently learning **[e.g. System Design, Cloud, AI/ML]**
-- 🤝 Open to collaborating on **open-source and interesting side projects**
-- 💬 Ask me about **[your main skills, e.g. Python, Web Dev, DSA]**
-- ⚡ Fun fact: **[something memorable about you]**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nodejs,express,html,css,tailwind&perline=11" alt="languages and frontend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,linux,aws,vscode,postman,figma&perline=11" alt="tools and databases" />
-
-</div>
-
-> ✏️ Edit the icon names to match your stack. Full list: [skillicons.dev](https://skillicons.dev)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinav-swe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats: stars, commits, PRs, issues" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-swe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abhinav-swe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-swe&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="100%" />
-
-</div>
-
-### 🧾 Commit Graph (Contribution Snake)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhinav-swe/abhinav-swe/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-</div>
-
-> 🐍 The snake needs a one-time GitHub Action, see the setup notes at the bottom of this file. Until then, delete this section or it will show a broken image.
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abhinav-swe/REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-</a>
-<a href="https://github.com/abhinav-swe/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-</a>
-<br/>
-<a href="https://github.com/abhinav-swe/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" alt="Project 3" />
-</a>
-<a href="https://github.com/abhinav-swe/REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-swe&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" alt="Project 4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Learning+by+building+%F0%9F%9B%A0%EF%B8%8F;C%2B%2B+%26+problem+solving;Web+development+%7C+AI%2FML;One+commit+at+a+time+%F0%9F%8C%B1" alt="Typing introduction" />
 </a>
 
 </div>
 
-> ✏️ Replace `REPO-NAME-1` to `REPO-NAME-4` (in both the link and the image URL) with your real repository names.
+🧭 A little about me
+- 🎓 Studying B.Tech in CSE (AI & ML).
+- 💻 Exploring software engineering, problem-solving, and AI/ML.
+- 🌱 Currently learning C++ & DSA, HTML, CSS, JavaScript, Python, and Git/GitHub.
+- 🧪 I learn best by building small projects, experimenting, and improving them.
+- 🎯 Long-term goal: become a strong software engineer and build things that are genuinely useful.
+Creating, breaking, learning, repeating. The progress is the point. 🌙
 
----
-
-## 🏆 Achievements
-
+🛠️ What I'm learning
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav-swe&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+Area	Current focus
+💻 Programming	C++, Python
+🧠 Problem solving	Data Structures & Algorithms
+🌐 Web	HTML, CSS, JavaScript
+🤖 AI / ML	Python foundations and core concepts
+🔧 Tools	Git, GitHub, VS Code
+
 
 </div>
 
----
+📊 GitHub at a glance
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abhinav-swe&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-swe&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=3B82F6" alt="Most used languages" />
+</div>
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abhinav-swe&hide_border=true&theme=transparent&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" alt="GitHub contribution streak" />
+</div>
+
+<sub>Stats are generated by third-party services and may occasionally be delayed or unavailable. Language cards reflect repository code, not skill level.</sub>
+📈 Contribution activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-swe&bg_color=00000000&color=3B82F6&line=3B82F6&point=F97316&area=true&area_color=3B82F6&hide_border=true" alt="Contribution activity graph" width="100%" />
+</div>
+
+🚀 Featured projects
+<!-- Keep these links pointed at real repositories. Replace or add projects as your portfolio grows. -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧮 Workspace & Mini Projects</h3>
+      <p>A growing collection of practice builds, experiments, and projects as I level up my development skills.</p>
+      <p><a href="https://github.com/abhinav-swe/workspace">View workspace ↗</a> · <a href="https://github.com/abhinav-swe/workspace/tree/main/01_Mini_Projects/Calculator">Open calculator project ↗</a></p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Web Development</h3>
+      <p>Small projects built while learning the fundamentals of HTML, CSS, and JavaScript.</p>
+      <p><a href="https://github.com/abhinav-swe?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ C++ & Problem Solving</h3>
+      <p>Programming exercises and experiments focused on strengthening logic and problem-solving.</p>
+      <p><a href="https://github.com/abhinav-swe?tab=repositories&q=C%2B%2B">Explore C++ work ↗</a></p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI / ML Learning</h3>
+      <p>A space for Python practice and future machine-learning experiments as I learn the foundations.</p>
+      <p><a href="https://github.com/abhinav-swe?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+🧰 Languages & tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=light" alt="C++, Python, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
+</div>
+
+🤝 Find me around the internet
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhinav-chaturvedi-a7b08937a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/infinitestar">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/abhinav-chaturvedi/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/abhinav-swe">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-<br/><br/>
-
-⭐ **If you like what you see, drop a star on a repo!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%"/>
-
+🌱 Still learning. Still building. Still curious.
+Thanks for stopping by — have a good one! ✨
 </div>
-
-<!--
-==================== SETUP NOTES (safe to delete this block) ====================
-
-1. Repo: the file must live in a PUBLIC repo named exactly `abhinav-swe`
-   (github.com/abhinav-swe/abhinav-swe) as README.md.
-
-2. Private contributions: in your GitHub profile, go to Contributions settings and enable
-   "Private contributions" so stats and streak count them.
-
-3. Contribution snake (optional): create .github/workflows/snake.yml with:
-
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [main]
-   permissions:
-     contents: write
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: |
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3.1.0
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Run it once from the Actions tab, and the snake image will appear.
-
-4. If a stats card ever shows an error, the free public github-readme-stats server
-   is rate-limited; refreshing later usually fixes it.
-==================================================================================
--->
