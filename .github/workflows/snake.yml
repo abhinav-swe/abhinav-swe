@@ -17,11 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg?palette=github-dark&color_snake=%2300e5ff&color_dots=%23061120,%230b2940,%230078b8,%2300cfff,%238b5cf6
+
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
